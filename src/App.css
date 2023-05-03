@@ -27,6 +27,13 @@
 .App-link {
   color: #61dafb;
 }
+.sidenavlist .row:hover{
+  cursor: pointer;
+  background-color: #282c34;
+}
+.sidenavlist #active{
+  background-color: #282c34;
+}
 
 @keyframes App-logo-spin {
   from {
